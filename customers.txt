@@ -1,0 +1,3 @@
+1200,Global Co,Natthapong,Manager,444/2
+1202,Infotech System Co,Kanokwan,Staff,125/3
+1203,Nation U,Namwarn,Staff,611/9

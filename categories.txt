@@ -1,0 +1,3 @@
+0001,book,stationary
+0002,pencil,stationary
+0003,pen,stationary
